@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            class ConsoleMon
+            class ConsoleMon;
+            class skill;
         }
     }
 }
