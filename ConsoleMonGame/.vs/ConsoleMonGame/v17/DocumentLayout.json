@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\ConsoleMonGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C59E50E-48F3-484D-8AD9-A62AEB7B8665}|ConsoleMonGame\\ConsoleMonGame.csproj|c:\\users\\jayjl\\onedrive\\documenten\\github\\2023p4progcs2\\consolemongame\\consolemongame\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C59E50E-48F3-484D-8AD9-A62AEB7B8665}|ConsoleMonGame\\ConsoleMonGame.csproj|solutionrelative:consolemongame\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C59E50E-48F3-484D-8AD9-A62AEB7B8665}|ConsoleMonGame\\ConsoleMonGame.csproj|c:\\users\\jayjl\\onedrive\\documenten\\github\\2023p4progcs2\\consolemongame\\consolemongame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C59E50E-48F3-484D-8AD9-A62AEB7B8665}|ConsoleMonGame\\ConsoleMonGame.csproj|solutionrelative:consolemongame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsoleMon.cs",
+              "DocumentMoniker": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMon.cs",
+              "RelativeDocumentMoniker": "ConsoleMonGame\\ConsoleMon.cs",
+              "ToolTip": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMon.cs",
+              "RelativeToolTip": "ConsoleMonGame\\ConsoleMon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:48:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleMonGame\\Program.cs",
               "ToolTip": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\Program.cs",
               "RelativeToolTip": "ConsoleMonGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T09:44:26.782Z",
               "EditorCaption": ""
