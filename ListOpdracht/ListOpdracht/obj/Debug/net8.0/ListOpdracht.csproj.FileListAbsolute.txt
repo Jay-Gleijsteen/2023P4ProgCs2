@@ -1,0 +1,15 @@
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net8.0\ListOpdracht.exe
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net8.0\ListOpdracht.deps.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net8.0\ListOpdracht.runtimeconfig.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net8.0\ListOpdracht.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net8.0\ListOpdracht.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.AssemblyInfoInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.AssemblyInfo.cs
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.sourcelink.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\refint\ListOpdracht.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ListOpdracht.genruntimeconfig.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net8.0\ref\ListOpdracht.dll

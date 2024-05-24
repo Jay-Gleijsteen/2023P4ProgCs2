@@ -3,13 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ConsoleMonGame
 {
-    internal class skill
+    internal class Skill
     {
-        int damage;
-        int energycost;
-        string name;
+        public int damage = 10;
+        public int energycost = 10;
+        string name = "kip";
+
+        internal void UseOn(ConsoleMon target, ConsoleMon caster)
+        {
+            caster.DepleteEnergy(energycost);
+            target.TakeDamage(damage);
+        }
     }
+
+    
 }

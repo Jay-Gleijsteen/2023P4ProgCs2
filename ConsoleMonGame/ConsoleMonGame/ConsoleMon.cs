@@ -2,8 +2,24 @@
 {
     internal class ConsoleMon
     {
-        int health;
-        int energy;
-        string name;
+        public int health;
+        public int energy;
+        string name = "kip";
+
+        private List<skills> skills;
+        internal void TakeDamage(int damage)
+        {
+            health -= damage;
+        }
+
+        
+        internal void DepleteEnergy(int energy) 
+        {
+            this.energy -= energy;
+        }
+
+
     }
+
+   
 }

@@ -1,0 +1,15 @@
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfoInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfo.cs
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.csproj.CoreCompileInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.sourcelink.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.exe
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.deps.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.runtimeconfig.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\refint\ConsoleMonGame.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.genruntimeconfig.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ref\ConsoleMonGame.dll
