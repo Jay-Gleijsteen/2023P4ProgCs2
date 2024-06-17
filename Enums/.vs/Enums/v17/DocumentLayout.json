@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72BFF5-BF00-4FAA-9E02-6FC25AEC376B}|Enums\\Enums.csproj|c:\\users\\jayjl\\onedrive\\documenten\\github\\2023p4progcs2\\enums\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72BFF5-BF00-4FAA-9E02-6FC25AEC376B}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72BFF5-BF00-4FAA-9E02-6FC25AEC376B}|Enums\\Enums.csproj|c:\\users\\jayjl\\onedrive\\documenten\\github\\2023p4progcs2\\enums\\enums\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72BFF5-BF00-4FAA-9E02-6FC25AEC376B}|Enums\\Enums.csproj|solutionrelative:enums\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\Enums\\Enums\\Colors.cs",
+              "RelativeDocumentMoniker": "Enums\\Colors.cs",
+              "ToolTip": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\Enums\\Enums\\Colors.cs",
+              "RelativeToolTip": "Enums\\Colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:58:28.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\Enums\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\jayjl\\OneDrive\\Documenten\\GitHub\\2023P4ProgCs2\\Enums\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:57:19.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

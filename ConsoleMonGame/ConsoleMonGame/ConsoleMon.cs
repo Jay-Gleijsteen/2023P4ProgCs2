@@ -2,11 +2,14 @@
 {
     internal class ConsoleMon
     {
-        public int health;
-        public int energy;
-        string name = "kip";
+        public int health { get; set; }
+        public int energy { get; set; }
+        public string name { get; set; }
 
-        private List<skills> skills;
+
+        private List<Skill> Skills;
+
+        internal Element weakness;
         internal void TakeDamage(int damage)
         {
             health -= damage;

@@ -35,5 +35,12 @@
 
             Console.WriteLine(casterMon.energy == -20);
         }
+
+        static void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
+        }
     }
 }

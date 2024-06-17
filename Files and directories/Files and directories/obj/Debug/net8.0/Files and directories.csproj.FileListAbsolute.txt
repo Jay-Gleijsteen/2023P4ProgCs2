@@ -1,0 +1,15 @@
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\bin\Debug\net8.0\Files and directories.exe
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\bin\Debug\net8.0\Files and directories.deps.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\bin\Debug\net8.0\Files and directories.runtimeconfig.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\bin\Debug\net8.0\Files and directories.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\bin\Debug\net8.0\Files and directories.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.AssemblyInfoInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.AssemblyInfo.cs
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.csproj.CoreCompileInputs.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.sourcelink.json
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\refint\Files and directories.dll
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.pdb
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\Files and directories.genruntimeconfig.cache
+C:\Users\jayjl\OneDrive\Documenten\GitHub\2023P4ProgCs2\Files and directories\Files and directories\obj\Debug\net8.0\ref\Files and directories.dll
